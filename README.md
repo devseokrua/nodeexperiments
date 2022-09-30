@@ -1,3 +1,3 @@
 # nodeexperiments
 
-after some years of PHP try to code test task for NodeJS internship in onix )
+after several years of PHP tried to write a test case for NodeJS internship in onix)
